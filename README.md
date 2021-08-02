@@ -32,7 +32,7 @@ The model uses an embedding layer to convert sparse encoding of the inputs to de
 
 ## Instructions
 
-You can train the model from scrath using the Google Colab notebooks. Please use `Sentiment-Analysis_trax.ipynb` for Trax version and `Sentiment-Analysis_tensorflow.ipynb` version. 
+You can train the model from scrath using the Google Colab notebooks. Please use `Sentiment-Analysis_trax.ipynb` for Trax version and `Sentiment-Analysis_tensorflow.ipynb` for tensorflow version. 
 
 ## Results
 
