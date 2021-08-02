@@ -28,3 +28,12 @@ The model uses an embedding layer to convert sparse encoding of the inputs to de
 
 ![Alt Text](https://github.com/saeedkhaki92/Sentiment-Analysis-of-Tweets/blob/main/nn.jpg)
 
+
+
+## Instructions
+
+You can train the model from scrath using the Google Colab notebooks named `Neural-text-Generation.ipynb` and ``. 
+
+## Results
+
+I trained the model for 2-3 epochs and the validation accuracy is around 99%.
