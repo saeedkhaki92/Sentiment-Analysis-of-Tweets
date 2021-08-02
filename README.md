@@ -23,3 +23,8 @@ The model is trained and validated on 10K tweets. I used 8K tweets for training 
 
 ### Model
 
+The model uses an embedding layer to convert sparse encoding of the inputs to dense vector representations. Then, the dense encodings go to the classifer for classification. The model architucture is as follows:
+
+
+![Alt Text](https://github.com/saeedkhaki92/text-generation-Trax/blob/main/pic1.png)
+
