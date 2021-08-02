@@ -20,3 +20,6 @@ Following packages should be installed on python 3:
 
 The model is trained and validated on 10K tweets. I used 8K tweets for training and 2K tweets for validation.
 
+
+### Model
+
